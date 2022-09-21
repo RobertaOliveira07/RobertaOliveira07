@@ -1,4 +1,4 @@
-## Olá, eu sou a Roberta!
+## Olá 👋, eu sou a Roberta!
 
 <div align="center">
   <a href="https://github.com/RobertaOliveira07">
