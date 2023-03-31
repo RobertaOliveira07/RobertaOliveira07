@@ -1,6 +1,6 @@
 ## Olá pessoal, eu sou a Roberta!
 
-<div align="center"> <img src="https://i.pinimg.com/564x/aa/cd/44/aacd44085c139b04bbe89957048e04ac.jpg" width="400" height="400"> </div>
+<div align="center"> <img src="https://i.pinimg.com/564x/aa/cd/44/aacd44085c139b04bbe89957048e04ac.jpg" width="600" height="400"> </div>
 
 <br>
 
