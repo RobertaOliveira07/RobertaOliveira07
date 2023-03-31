@@ -1,4 +1,9 @@
-## Olá 👋, eu sou a Roberta!
+## Olá pessoal, eu sou a Roberta!
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<a href="mailto:roberttavalentim07@gmail.com">
+  <img align="left" alt="Roberta Oliveira | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
 
 <div align="center">
   <a href="https://github.com/RobertaOliveira07">
