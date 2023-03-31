@@ -1,11 +1,13 @@
 ## Olá pessoal, eu sou a Roberta!
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<div align="center"> <img src="https://i.pinimg.com/564x/aa/cd/44/aacd44085c139b04bbe89957048e04ac.jpg" width="200" height="200"> </div>
 
-### 👩‍💻🏻 Sou estudante de Análise e Desenvolvimento de Sistemas
+<br>
+
+### 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas
 
 <!-- - 🌱 Eu estou estudando **HTML**, **CSS** and **Javascript** -->
-- 🐦 Recentemente começei os estudos em  **REACT** and **Python**, e paralelamente tenho estudado muito sobre cloud computing (AWS)
+- 🐦 Recentemente começei os estudos em  **REACT** e **Python**, e paralelamente tenho estudado muito sobre cloud computing (AWS)
 
 
 <div align="center">
