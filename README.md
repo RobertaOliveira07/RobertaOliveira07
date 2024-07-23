@@ -5,7 +5,7 @@
 <br>
 
 ### 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🦅 Ela/Dela | 26 anos
+- 🦅 Ela/Dela | 27 anos
 - Estava terminando minha faculdade de História, mas percebi em meados de 2021 que meus objetivos não estavam mais alinhados com a área de humanas, então decidi mudar de carreira. Busco minha primeira experiência na área de tecnologia para continuar aprendendo e desenvolvendo minhas hard skills.
 <!-- - 🌱 Eu estou estudando **HTML**, **CSS** and **Javascript** -->
 - 🐦 Recentemente começei os estudos em  **REACT** e **Python**, e paralelamente tenho estudado muito sobre cloud computing (AWS)
