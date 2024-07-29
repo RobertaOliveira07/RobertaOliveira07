@@ -1,4 +1,4 @@
-## Olá pessoal, eu sou a Roberta
+## Olá pessoal, eu sou a Roberta!!
 
 <div align="center"> <img src="https://i.pinimg.com/564x/aa/cd/44/aacd44085c139b04bbe89957048e04ac.jpg" width="600" height="400"> </div>
 
@@ -6,9 +6,11 @@
 
 ### 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas
 - 🦅 Ela/Dela | 27 anos
-- Estava terminando minha faculdade de História, mas percebi em meados de 2021 que meus objetivos não estavam mais alinhados com a área de humanas, então decidi mudar de carreira. Busco minha primeira experiência na área de tecnologia para continuar aprendendo e desenvolvendo minhas hard skills.
-<!-- - 🌱 Eu estou estudando **HTML**, **CSS** and **Javascript** -->
-- 🐦 Recentemente começei os estudos em  **REACT** e **Python**, e paralelamente tenho estudado muito sobre cloud computing (AWS)
+- Decidi mudar de rumo após trancar minha faculdade de História e iniciar minha jornada na tecnologia. Desde 2021, estou focada em desenvolver minhas habilidades em programação, com ênfase em Python e Django. Estou buscando minha primeira experiência na área para continuar aprendendo e crescendo profissionalmente.
+💻 Atualmente:
+
+- Estudando Python e Django para desenvolvimento backend.
+- Explorando análise de dados e aprimorando minhas habilidades em manipulação de dados.
 
 
 <div align="center">
