@@ -5,7 +5,7 @@
 <br>
 
 ### 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🦅 Ela/Dela | 27 anos
+- 🦅 Ela/Dela | 29 anos
 - Decidi mudar de rumo após trancar minha faculdade de História e iniciar minha jornada na tecnologia. Desde 2021, estou focada em desenvolver minhas habilidades em programação, com ênfase em Python e Django. Estou buscando minha primeira experiência na área para continuar aprendendo e crescendo profissionalmente.
 💻 Atualmente:
 
